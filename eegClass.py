@@ -62,7 +62,7 @@ class eegData:
 				k[0,v-1]=1
 				targets.append(k)
 				samples.append(dataPre[i,:])
-		i# indices = [index for index, value in enumerate(targetsPre[:][0]) if value > 1 ];	
+		# indices = [index for index, value in enumerate(targetsPre[:][0]) if value > 1 ];	
 		self.nSamples = numpy.size(indices)
 		self.targets = numpy.vstack(targets)
 		self.samples =  numpy.vstack(samples)
