@@ -1,7 +1,5 @@
 # Author : Cesar Leonardo Clemente Lopez @ ITESM, Campus MTY.
-#CNN that tries to replicate results from paper "Decoding EEG and LFP signals using deep learning: Heading Truenorth".
-# Data reference: Nurse ES, Karoly PJ, Grayden DB, Freestone DR (2015) A Generalizable Brain-Computer Interface (BCI)
-# Using Machine Learning for Feature Discovery. PLoS ONE 10(6): e0131328. doi: 10.1371/journal.pone.0131328
+
 
 import scipy.io as io
 import numpy
