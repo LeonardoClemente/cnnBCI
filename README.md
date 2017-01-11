@@ -4,3 +4,5 @@ A series of experiments were done with the objective to perform binary classific
 data related to physical reaction tasks using a convolutional network model. Datasets used for classification correspond to a hand-squeeze experiment and a simulated driving experiment. They're both available online.Hyperparameters such as ConvNet’s number, Kernel Size,convolutional layer depth, batch size were varied. Pre-processing techniques of data to complement
 classification performance was included. Experiments show that this type of architecture combina-
 tions did not perform well, obtaining accuracy rates that did not go past .70
+
+Please read the attached PDF for more information. 
